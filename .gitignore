@@ -1,0 +1,10 @@
+/aspro_next_origin
+
+**/lang/
+\aspro_next\themes
+
+*.js
+*.css
+*.svg
+*.png
+*.gif
